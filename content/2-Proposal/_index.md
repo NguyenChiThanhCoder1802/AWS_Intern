@@ -1,6 +1,8 @@
 ---
 title: "Project Proposal"
 weight: 1
+chapter: false
+pre: " <b> 2 </b> "
 ---
 
 # Serverless Todo API - Project Proposal
@@ -17,6 +19,8 @@ weight: 1
 ### What is This Project?
 
 A modern, scalable Todo management system built entirely on AWS serverless services. Users can create, read, update, and delete todo items through a REST API, perfect for learning AWS architecture and best practices.
+
+![alt text](<DynamoDb1.jpg>) ![alt text](<GiaodienEmail_WebHook.jpg>) ![alt text](<NhapEmail_WebHook.jpg>) ![alt text](<DynamoDB.jpg>)
 
 ---
 

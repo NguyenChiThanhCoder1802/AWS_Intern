@@ -1,47 +1,38 @@
 ---
 title: "Sharing and Feedback"
-date: 2024-01-01
+date: 2026-07-09
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
+---
 
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud Journey program. This will help the FCJ team improve any shortcomings based on the following aspects:
 
 ### Overall Evaluation
 
-**1. Working Environment**  
-The working environment is very friendly and open. FCJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+**1. Working Environment**
+Throughout my internship, I experienced a professional yet comfortable working environment. Everyone treated each other with respect and was always willing to share their knowledge whenever I encountered difficulties. This helped me adapt quickly to the workplace and become more confident during my internship.
 
-**2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+**2. Support from Mentor / Team Admin**
+My mentor closely monitored my progress, provided constructive feedback, and guided me in solving problems instead of simply giving me the answers. The team members were also very supportive whenever I needed help, allowing me to gain a better understanding of real-world software development processes.
 
-**3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+**3. Relevance Between the Internship and My Major**
+This internship gave me the opportunity to apply the knowledge I had learned at university to real projects while exposing me to new technologies and tools. In addition to improving my technical skills, I also developed teamwork, time management, research, and problem-solving skills throughout the project.
 
-**4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+**4. Learning Opportunities & Skill Development**
+Through training sessions and project participation, I gained a deeper understanding of the software development lifecycle and how team members collaborate effectively. These valuable experiences are difficult to obtain through classroom learning alone.
 
-**5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+**5. Company Culture & Team Spirit**
+I highly appreciate the company's culture, which emphasizes collaboration, responsibility, and initiative. Everyone is willing to share knowledge and support one another in achieving common goals, creating a positive learning and working environment for interns.
 
-**6. Internship Policies / Benefits**  
-The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
-
----
+**6. Internship Policies & Benefits**
+During my internship, the company provided interns with opportunities to participate in training programs, receive proper guidance, and gain hands-on experience. In addition, all internship-related procedures were handled efficiently, allowing me to focus on learning and completing my assigned tasks.
 
 ### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
 
----
+* **What was the most satisfying part of your internship?**
+  The aspect I appreciated the most was the enthusiastic support from the internship coordination team and the company staff. Whenever I faced challenges in my work or needed assistance with administrative procedures, they responded promptly and provided clear guidance. In addition, the company gave interns the opportunity to register for working directly at the office, allowing me to experience a real working environment, gain more practical knowledge, and interact with other team members.
 
-### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+* **Would you recommend this internship to your friends? Why?**
+  Yes, I definitely would. This internship provides an excellent environment for students to gain practical experience, learn new technologies, and develop professional working skills. The mentors and team members are highly supportive and always willing to help interns improve both their technical expertise and soft skills. I believe it is a great opportunity for students who want to prepare themselves before entering the professional workforce.

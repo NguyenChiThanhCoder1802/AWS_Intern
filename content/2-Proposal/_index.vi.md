@@ -1,6 +1,8 @@
 ---
 title: "Đề Xuất Dự Án"
 weight: 1
+chapter: false
+pre: " <b> 2 </b> "
 ---
 
 # Serverless Todo API - Đề Xuất Dự Án
@@ -17,6 +19,7 @@ weight: 1
 ### Dự án là gì?
 
 Một hệ thống quản lý Todo hiện đại, có thể mở rộng được xây dựng hoàn toàn trên các dịch vụ serverless của AWS.
+![alt text](<DynamoDb1.jpg>) ![alt text](<GiaodienEmail_WebHook.jpg>) ![alt text](<NhapEmail_WebHook.jpg>) ![alt text](<DynamoDB.jpg>)
 
 ---
 
